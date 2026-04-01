@@ -1,62 +1,120 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Neelesh%20Jha&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20%26%20Analytics%20Practitioner&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+## Hi there! 👋
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=neeleshjha">
-    <img src="https://komarev.com/ghpvc/?username=neeleshjha&label=Profile%20views&color=00FFFF&style=flat-square" alt="neeleshjha's profile views" />
-  </a>
-</p>
+# Hello world !!
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
+**I'm `neeleshjha` — Data Scientist & Analytics Practitioner.**
 
-## 📌 About Me
--Turning messy data into clear business outcomes 📊🔍
--Currently exploring scalable analytics pipelines and reproducible ML workflows. 🚀
--I build end-to-end analytics projects and prototypes that answer business questions and     surface operational improvements.
+- Tagline: Turning messy data into clear business outcomes 📊🔍
+- Focus:  Data Analytics, Information Technology, Statistical Modelling, Qualitative research, Mathematical Problem solving and Image processing
 
+Currently exploring scalable analytics pipelines and reproducible ML workflows. 🚀
 
-## 🧠 My Focus Areas
-- Data Science/Analytics,
-- AI/ML
-- Data Engineering,
-- Information Technology,
-- Statistical Modelling,
-- Qualitative research,
-- Image processing.
+## About Me
 
+### About Me
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/neeleshjha">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neeleshjha&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="neeleshjha's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=neeleshjha&theme=nightowl&hide_border=true&cache_seconds=86400" alt="neeleshjha's GitHub Streak" width="49%" />
-</p>
+- GitHub: [neeleshjha](https://github.com/neeleshjha)
+- Joined GitHub: January 19, 2017
+- Public repositories: **37**
 
+I build end-to-end analytics projects and prototypes that answer business questions and surface operational improvements.
 
-## 🛠️ Languages & Tools
+Interests: Applied ML, forecasting, optimization, data visualization, and reproducible notebooks. Always happy to collaborate on data-driven projects and open-source tools. 💡
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+## Skills & Technologies
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
+•	Software - Python, C++, PowerBI, Tableau, Azure, AWS,  MATLAB
+•	Database - My SQL, MS Excel, MS Office
+•	AI skills – Gemini, ChatGPT, Claude, Quadratic, Hugging Face
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /></p>
+## Top Projects
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+### Top Projects 🚀
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/neelesh-jha" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/917869512742" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:neeleshjha3@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+1. [Supply-Chain-Logistics-Analytics](https://github.com/neeleshjha/Supply-Chain-Logistics-Analytics)
+   - Description: A multi-warehouse manufacturing group has only 41.1% on-time delivery (industry benchmark: 85%), a 22.3% stockout rate threatening production continuity, and $18.9M in annual freight spend with no optimisation strategy.
+   - Stars: 0 ⭐ | Forks: 0 | Open issues: 0
+   - Primary language: Python
+   - Size: 836 KB
+   - Last pushed: 2026-04-01
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+2. [Healthcare-Patient-Analytics](https://github.com/neeleshjha/Healthcare-Patient-Analytics)
+   - Description: A regional hospital network has rising readmissions, revenue leakage, and inconsistent patient satisfaction.
+   - Stars: 0 ⭐ | Forks: 0 | Open issues: 0
+   - Primary language: Python
+   - Size: 493 KB
+   - Last pushed: 2026-04-01
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
+3. [Finance-Banking-Loan-Portfolio-Analytics](https://github.com/neeleshjha/Finance-Banking-Loan-Portfolio-Analytics)
+   - Description: A multi-bank financial group faces rising NPA ratios, inconsistent Net Interest Margins across regions, and limited visibility into loan risk concentration.
+   - Stars: 0 ⭐ | Forks: 0 | Open issues: 0
+   - Primary language: Python
+   - Size: 305 KB
+   - Last pushed: 2026-04-01
 
+> Notes: Projects above are selected from recently created/pushed repositories and notebooks focused on analytics and ML. Visit any repo to see README, notebooks, and reproducible analyses. 🔎
+
+## GitHub Stats
+
+### GitHub Stats 📈
+
+- Public repositories: **37**
+- Followers: **0**
+- Following: **0**
+
+Badges / Cards:
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neeleshjha&show_icons=true&theme=default)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neeleshjha&layout=compact&theme=default)
+- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=neeleshjha&theme=default)
+
+(Use these cards in a README to showcase contribution metrics and most-used languages.)
+
+## Recent Activity
+
+### Recent Activity 🔔
+
+Here are the most recent public GitHub events:
+
+1. Push to [Supply-Chain-Logistics-Analytics](https://github.com/neeleshjha/Supply-Chain-Logistics-Analytics) — pushed on 2026-04-01T09:12:46Z (commit head: 6e6c841)
+2. Push to [Healthcare-Patient-Analytics](https://github.com/neeleshjha/Healthcare-Patient-Analytics) — pushed on 2026-04-01T09:10:50Z (commit head: 7c1dcc1)
+3. Push to [Finance-Banking-Loan-Portfolio-Analytics](https://github.com/neeleshjha/Finance-Banking-Loan-Portfolio-Analytics) — pushed on 2026-04-01T09:05:17Z (commit head: 158ddd3)
+4. Push to [Finance-Banking-Loan-Portfolio-Analytics](https://github.com/neeleshjha/Finance-Banking-Loan-Portfolio-Analytics) — pushed on 2026-04-01T08:47:25Z (commit head: a851fc6)
+5. Created branch `main` for [Finance-Banking-Loan-Portfolio-Analytics](https://github.com/neeleshjha/Finance-Banking-Loan-Portfolio-Analytics) — 2026-04-01T08:44:44Z
+6. Push to [Healthcare-Patient-Analytics](https://github.com/neeleshjha/Healthcare-Patient-Analytics) — pushed on 2026-04-01T08:42:46Z (commit head: f600a1d)
+7. Push to [Supply-Chain-Logistics-Analytics](https://github.com/neeleshjha/Supply-Chain-Logistics-Analytics) — pushed on 2026-04-01T08:38:35Z (commit head: 5a690ea)
+8. Created branch `main` for [Supply-Chain-Logistics-Analytics](https://github.com/neeleshjha/Supply-Chain-Logistics-Analytics) — 2026-04-01T08:31:08Z
+
+More activity is available on the user's GitHub profile activity feed. 🔁
+
+## Latest Blog Posts
+
+### Latest Blog Posts ✍️
+
+No personal blog or external articles were found in the profile data provided.
+
+If you have a blog or publications you'd like to showcase, add your blog link to your GitHub profile (or share it here) and I can list recent posts automatically. 🌐
+
+## Connect with Me
+
+### Connect with Me 🤝
+
+- GitHub: [github.com/neeleshjha](https://github.com/neeleshjha)  
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-neeleshjha-181717?logo=github)
+
+Other profiles not found in profile data provided:
+
+- Twitter: _not provided_
+- LinkedIn: https://www.linkedin.com/in/neelesh-jha 
+- Personal website / blog: _not provided_
+
+If you'd like to add links for Twitter, LinkedIn, or a personal site, update your profile or share them and I'll include badges and direct links. 🔗
+
+Quick note:
+- Currently working on: supply-chain & healthcare analytics pipelines, reproducible notebooks, and model evaluation workflows. 📚🔬
+- Open to: collaborations, dataset projects, and feedback on notebooks. 💬
+
+## Certifications
+
+- [AWS Cloud Quest](https://www.credly.com/badges/acfe1683-1eb3-4030-861a-4303ffaefefe/linked_in_profile) -AWS, 2026
+- [Data Science Certification](Credential ID 20288/EXCELR/28282025 ) -ExcelR, 2025
