@@ -25,8 +25,8 @@
 <!-- ==================== SOCIALS ==================== -->
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/neelesh-jha)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="[YOUR_GITHUB_URL](https://github.com/neeleshjha)"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/neelesh-jha"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/neeleshjha"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="YOUR_TWITTER_URL"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://skillicons.dev/icons?i=webflow" /></a>
 </p>
@@ -121,7 +121,7 @@
 <!-- ==================== PROJECTS ==================== -->
 ## 🚀 Featured Projects
 ```yaml
-- Project 1: Short description
+- Project 1: Supply Chain & Logistics Analytics-https://github.com/neeleshjha/Supply-Chain-Logistics-Analytics
 - Project 2: Short description
 - Project 3: Short description
 ```
