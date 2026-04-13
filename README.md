@@ -43,6 +43,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" 
+     alt="TensorFlow Logo" 
+     width="40" 
+     style="margin-right: 20px;">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" 
+     alt="Keras Logo" 
+     width="40">
 <a href="https://jupyter.org/">
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="40" height="40">
 </a>
